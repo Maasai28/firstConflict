@@ -1,2 +1,3 @@
 # firstConflict
-hello from branchOne
+hello from branch two
+
